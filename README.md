@@ -1,6 +1,6 @@
 # ml-react-app
 
-A simple Machine Learning application built on Flask backend and React frontend
+A simple Machine Learning application built on a Flask backend and React frontend
 
 ![alt text](https://github.com/fowad-sohail/ml-react-app/blob/master/images/functionality.png)
 
