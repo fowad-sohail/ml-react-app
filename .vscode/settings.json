@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "service\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.mypyEnabled": true
+}
